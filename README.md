@@ -26,4 +26,4 @@ The Logistic Regression model seems to have predicted the healthy loans very wel
 
 
 
-All code was written by me.
+*All code was written by me.*
