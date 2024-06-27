@@ -9,8 +9,6 @@ After reading the dataset and splitting it into labels and features, we split th
 
 ## Results
 
-Using bulleted lists, describe the accuracy scores and the precision and recall scores of all machine learning models.
-
 * Logistic Regression Model
     * Accuracy: 0.99
     * Precision
