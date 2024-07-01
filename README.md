@@ -20,7 +20,11 @@ After reading the dataset and splitting it into labels and features, we split th
 
 ## Summary
 
-The Logistic Regression model seems to have predicted the healthy loans very well, and it does a good job at predicting the high-risk loans, but it could be better. There were 80 "false positives" - meaning there were 80 high-risk loans that were classified as healthy. This scenario is detrimental to both borrowers and to lending institutions. It is more important to predict the high-risk loans, so perhaps a different model would be better to predict those.
+The Logistic Regression model seems to have predicted the healthy loans very well, and it does a good job at predicting the high-risk loans, but it could be better.
+
+There were 80 "false positives" - meaning there were 80 high-risk loans that were classified as healthy. This scenario is detrimental to both borrowers and to lending institutions. It is more important to predict high-risk loans than healthy loans. The high-risk loan precision is good but it would be better if the precision were over 0.90 or maybe even 0.95.
+
+In summary, the logistic regression model works fine, but if time and budget allows, a deep learning model may work better to predict high-risk loans in particular.
 
 
 
